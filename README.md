@@ -12,7 +12,7 @@ Also building **tegami**, a native email client in C++23 and Qt 6 with a
 self-written IMAP implementation and local-first Maildir/mbox + SQLite
 index architecture.
 
-Core Team at [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher).
+Core Team at [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher). \
 Package maintainer on the Arch Linux User Repository.
 
 ### Skills
